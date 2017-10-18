@@ -7,4 +7,4 @@ Description <br/>
 ![Beans](/IMG_9506.JPG)
 
 ### BEAN TOES
-![Beans](/IMG_9308.JPG)
+![Beano](/IMG_9308.JPG)
