@@ -1,4 +1,4 @@
 # hello-world
-<center> Hello World <br>
+Hello World
 Description <br>
 ![Beans](/IMG_9506.JPG)
